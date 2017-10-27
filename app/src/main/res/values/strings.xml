@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlayingWithBeaconsDemo</string>
+    <string name="welcome_to_the_workshop">Playing with Beacons Workshop</string>
+    <string name="be_a_virtual_url_beacon">Be a virtual URL Beacon</string>
+    <string name="scan_for_beacons">Scan for Beacons</string>
+    <string name="syp_url">https://ieee.org</string>
+    <string name="insert_a_url">Insert a URL</string>
+    <string name="share">Share</string>
+    <string name="url">Url</string>
+    <string name="stop">Stop</string>
+    <string name="the_url_must_be_https">The URL MUST be https</string>
+    <string name="start_ble_scan">Start</string>
+    <string name="pause">Pause</string>
+
+</resources>

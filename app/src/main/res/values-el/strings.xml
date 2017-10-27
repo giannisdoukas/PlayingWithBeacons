@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="be_a_virtual_url_beacon">Δημιούργησε ένα εικονικό URL Beacon</string>
+    <string name="scan_for_beacons">Ψάξε για Beacons</string>
+    <string name="insert_a_url">Εισήγαγε URL</string>
+    <string name="share">Κοινοποίησε</string>
+    <string name="stop">Στοπ</string>
+    <string name="the_url_must_be_https">Το URL πρέπει να είναι https</string>
+    <string name="start_ble_scan">Αναζήτηση</string>
+    <string name="pause">Παύση</string>
+</resources>
